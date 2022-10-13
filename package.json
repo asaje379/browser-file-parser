@@ -1,0 +1,19 @@
+{
+  "name": "browser-file-parser",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "read-excel-file": "^5.5.1"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
