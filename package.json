@@ -1,5 +1,5 @@
 {
-  "name": "browser-file-parser",
+  "name": "browser-file-reader",
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
@@ -15,5 +15,10 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "author": "Salem AFFA <salemaffa@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asaje379/browser-file-parser.git"
+  }
 }
